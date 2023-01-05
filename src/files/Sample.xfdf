@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<xfdf
+	xmlns="http://ns.adobe.com/xfdf/" xml:space="preserve">
+	<fields />
+	<annots>
+		<square page="0" rect="102.530,473.150,552.330,574.020" color="#E44234" flags="print" name="75e9cb4f-7ba0-1e31-b488-d3d5db4bcaec" title="Guest" subject="Rectangle" date="D:20221221030028-08'00'" interior-color="#000000" creationdate="D:20221221030027-08'00'"/>
+		<freetext page="0" rect="211.670,489.690,439.880,539.300" flags="print" name="8306fc5b-87ed-af11-30ad-91050918b123" title="Guest" subject="Free Text" date="D:20221221030051-08'00'" width="0" creationdate="D:20221221030037-08'00'" TextColor="#E44234" FontSize="40">
+			<trn-custom-data bytes="{&quot;trn-wrapped-text-lines&quot;:&quot;[\&quot;Confidential \&quot;,\&quot; \&quot;]&quot;}"/>
+			<contents>Confidential</contents>
+			<contents-richtext>
+				<body>
+					<p>
+						<span>Confidential</span>
+					</p>
+				</body>
+			</contents-richtext>
+			<defaultappearance>0 0 0 rg /Helvetica 40 Tf</defaultappearance>
+			<defaultstyle>font: Helvetica 40pt; text-align: left; text-vertical-align: top; color: #E44234</defaultstyle>
+		</freetext>
+		<square page="1" rect="52.920,524.410,570.530,631.900" color="#C544CE" flags="print" name="cb20bf22-61c6-08f5-fa91-6b99eb9868e1" title="Guest" subject="Rectangle" date="D:20221221030739-08'00'" interior-color="#C544CE" creationdate="D:20221221030737-08'00'"/>
+		<freetext page="1" rect="168.680,547.560,464.690,597.170" flags="print" name="41efa257-ca08-af33-d201-f7b03bd7c29d" title="Guest" subject="Free Text" date="D:20221221030817-08'00'" width="0" creationdate="D:20221221030745-08'00'" TextColor="#E44234" FontSize="40">
+			<trn-custom-data bytes="{&quot;trn-wrapped-text-lines&quot;:&quot;[\&quot;Not Required \&quot;,\&quot; \&quot;]&quot;}"/>
+			<contents>Not Required</contents>
+			<contents-richtext>
+				<body>
+					<p>
+						<span>Not Required</span>
+					</p>
+				</body>
+			</contents-richtext>
+			<defaultappearance>0 0 0 rg /Helvetica 40 Tf</defaultappearance>
+			<defaultstyle>font: Helvetica 40pt; text-align: left; text-vertical-align: top; color: #E44234</defaultstyle>
+		</freetext>
+		<square page="0" rect="60.490,224.320,541.200,335.740" color="#E44234" flags="print" name="df3a27c7-2080-90b3-5868-c652d134850d" title="Guest" subject="Rectangle" date="D:20221221214632-08'00'" interior-color="#000000" creationdate="D:20221221214631-08'00'"/>
+		<freetext page="0" rect="246.400,691.430,519.260,726.160" flags="print" name="0615c860-ea79-b97c-3d46-59fdd1e615b2" title="Guest" subject="Free Text" date="D:20221222021806-08'00'" width="0" creationdate="D:20221222021758-08'00'" TextColor="#E44234" FontSize="40">
+			<trn-custom-data bytes="{&quot;trn-wrapped-text-lines&quot;:&quot;[\&quot;Sample Text \&quot;]&quot;}"/>
+			<contents>Sample Text</contents>
+			<contents-richtext>
+				<body>
+					<p>
+						<span>Sample Text</span>
+					</p>
+				</body>
+			</contents-richtext>
+			<defaultappearance>0 0 0 rg /Helvetica 40 Tf</defaultappearance>
+			<defaultstyle>font: Helvetica 40pt; text-align: left; text-vertical-align: top; color: #E44234</defaultstyle>
+		</freetext>
+	</annots>
+	<pages>
+		<defmtx matrix="1,0,0,-1,0,841.92" />
+	</pages>
+</xfdf>
+
